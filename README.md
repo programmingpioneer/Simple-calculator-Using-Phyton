@@ -23,4 +23,4 @@ Start calculating with ease! 🧮
 
 
 # Output Image
-<img src="https://github.com/programmingpioneer/Simple-calculator-Using-Phyton/tree/07a62034a62912ec801673c5ec7a75e89c0d2c99/Simple%20GUL%20calculator%20Using%20Phyton" width="300" height="200" />
+<img src="https://github.com/programmingpioneer/Simple-calculator-Using-Phyton/blob/2429dd4dfc3e6717afc26ba331ed110dd44e9479/Simple%20GUL%20calculator%20Using%20Phyton/Calculator%20Output.png" />
